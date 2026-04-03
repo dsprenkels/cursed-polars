@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 AES-256 implemented entirely in Polars LazyFrame operations.
 
